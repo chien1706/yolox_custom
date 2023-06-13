@@ -1,0 +1,2 @@
+python tools/demo.py image -n yolox-s -c /mnt/nvme0n1/trinhchien/Vincom/YOLOX/weights/yolox_s.pth --path /mnt/nvme0n1/trinhchien/Vincom/test_data/test_images/imtest7.jpeg --conf 0.25 --nms 0.45 --tsize 640 --save_result --device gpu
+python tools/demo.py video -n yolox-s -c /mnt/nvme0n1/trinhchien/Vincom/YOLOX/weights/yolox_s.pth --path /mnt/nvme0n1/trinhchien/Vincom/test_data/video1.mp4 --conf 0.25 --nms 0.45 --tsize 640 --save_result --device gpu

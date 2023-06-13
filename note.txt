@@ -1,0 +1,2 @@
+environment: yolox
+sửa config tại :/mnt/nvme0n1/trinhchien/Vincom/YOLOX/exps/example/custom/yolox_s.py

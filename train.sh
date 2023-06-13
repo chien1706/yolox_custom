@@ -1,0 +1,1 @@
+python tools/train.py -f exps/default/yolox_s.py -d 8 -b 8 --fp16 -o [--cache]
